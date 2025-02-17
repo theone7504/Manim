@@ -5,7 +5,7 @@ During my limited time working as a math tutor I used this tool created by the b
 to run any script in this repository aka (render the video) you can do the following:
 save the intended file to a .py file then use the following command in your terminal:
 manim -pql the_file_name.py TheClassName
-    this ^ l can be replaced by h or m to choose the desired quality
+the l in the command's part -pql can be replaced by h or m to choose the desired quality
 
 
 if more interested take a look at manim documentations
