@@ -1,5 +1,5 @@
 # Manim
-During my limited time working as a math tutor I used this tool created by the brilliant 3Blue1Brown to showcase some basic concepts for pre-college math levels.
+During my time working as a math tutor I used this tool created by the brilliant 3Blue1Brown to showcase some basic concepts for pre-college math levels.
 
 
 to run any script in this repository aka (render the video) you can do the following:
